@@ -5,6 +5,15 @@
       "Sadness is a universal human emotion that is a natural response to a range of situations, including loss, disappointment, or separation. It is a normal and healthy emotion that helps us process and cope with difficult experiences. However, when sadness becomes prolonged and interferes with daily life, it may be a sign of depression. Depression is a mood disorder that can cause ongoing feelings of sadness, hopelessness, and loss of interest in activities that were once enjoyable.",
       "It's essential to seek advice from a mental health professional if you are experiencing ongoing sadness or difficulty functioning due to your emotions. Seeking help is not a sign of weakness, but rather a sign of strength and self-care. It is important to take care of your mental health as you would your physical health."
     ],
+    "causes": [
+      "Loss of a loved one.",
+      "Breakup or divorce.",
+      "Disappointment or failure.",
+      "Feeling disconnected from others.",
+      "Seasonal changes (e.g. seasonal affective disorder).",
+      "Chronic illness or pain.",
+      "Trauma or abuse."
+    ],
     "techniques": [
       "Allow yourself to feel your emotions and acknowledge them.",
       "Practice self-care by engaging in activities that you enjoy.",
@@ -20,6 +29,14 @@
       "Anxiety can manifest in different ways, such as social anxiety, generalized anxiety disorder, obsessive-compulsive disorder, and post-traumatic stress disorder. It can be caused by various factors, including genetics, environmental factors, and life experiences.",
       "It's important to seek advice from a mental health professional if anxiety is interfering with your ability to function normally or causing physical symptoms. There are various therapies and techniques that can help manage anxiety, such as cognitive-behavioral therapy, relaxation techniques, and medication. Seeking support for your emotions is a sign of strength, not weakness, and taking steps to manage your anxiety can improve your overall quality of life."
     ],
+    "causes": [
+      "Uncertainty or ambiguity.",
+      "Threat of harm or danger.",
+      "Overwhelming responsibilities or demands.",
+      "Social situations or performance anxiety.",
+      "Negative self-talk or catastrophic thinking.",
+      "Trauma or PTSD."
+    ],
     "techniques": [
       "Practice relaxation techniques such as deep breathing, meditation, or yoga.",
       "Challenge negative thoughts and reframe them in a positive light.",
@@ -33,6 +50,14 @@
     "mainText": [
       "Stress is a natural response to challenging situations, and in small doses, it can even be helpful in motivating us to take action. However, when stress becomes chronic or overwhelming, it can negatively impact our physical and mental health. Some common signs of stress include difficulty sleeping, irritability, mood swings, fatigue, and difficulty concentrating.",
       "Stress can be caused by a variety of factors, such as work or school demands, financial issues, relationship problems, or health concerns. It's important to identify the sources of your stress and find ways to manage it effectively. This might include prioritizing self-care, taking breaks when needed, practicing relaxation techniques, seeking support from friends or family, and setting realistic goals and expectations. In some cases, professional support from a mental health professional may be necessary to manage stress effectively."
+    ],
+    "causes": [
+      "Work or school pressures.",
+      "Financial difficulties.",
+      "Family or relationship conflicts.",
+      "Health concerns.",
+      "Time pressures or deadlines.",
+      "Major life changes (e.g. moving, new job)."
     ],
     "techniques": [
       "Practice relaxation techniques such as deep breathing or progressive muscle relaxation.",
@@ -48,6 +73,14 @@
       "Depression is a mood disorder that can affect a person's thoughts, feelings, and behavior. It is characterized by feelings of sadness, hopelessness, and a loss of interest or pleasure in activities that were once enjoyed. Other symptoms of depression may include changes in appetite or sleep patterns, difficulty concentrating, and thoughts of self-harm or suicide.",
       "Depression can be caused by a combination of genetic, biological, environmental, and psychological factors. It's important to seek advice from a mental health professional if you're experiencing symptoms of depression, as it can be a serious and potentially life-threatening condition. Treatment options may include talk therapy, medication, or a combination of both."
     ],
+    "causes": [
+      "Genetic or biological factors.",
+      "Trauma or abuse.",
+      "Chronic stress or illness.",
+      "Substance abuse or withdrawal.",
+      "Negative thought patterns or beliefs.",
+      "Isolation or loneliness."
+    ],
     "techniques": [
       "Practice self-care and engage in activities that you enjoy.",
       "Challenge negative thoughts and reframe them in a positive light.",
@@ -61,6 +94,14 @@
     "mainText": [
       "Anger is a natural emotion that can range from mild annoyance to intense rage. It's a response to a perceived threat or injustice and can be triggered by a variety of situations or events.",
       "Anger can be expressed in healthy or unhealthy ways, and it's important to learn how to manage and express it effectively. When anger is chronic or interferes with daily functioning, it may be a sign of an underlying mental health issue, and seeking professional help may be necessary."
+    ],
+    "causes": [
+      "Frustration or feeling stuck.",
+      "Feeling disrespected or unappreciated.",
+      "Feeling threatened or attacked.",
+      "Feeling powerless or out of control.",
+      "Injustice or unfair treatment.",
+      "Trauma or abuse."
     ],
     "techniques": [
       "Practice relaxation techniques such as deep breathing or mindfulness meditation.",
@@ -76,6 +117,15 @@
       "Grief is a natural response to loss, such as the death of a loved one, the end of a relationship, or a major life change. It can manifest in a variety of ways, including sadness, guilt, anger, and confusion.",
       "Grief can be a long and difficult process, and everyone experiences it differently. It's important to allow yourself to feel your emotions and seek support from loved ones or a therapist. Grief can also have physical symptoms, such as fatigue or changes in appetite, which may require medical attention."
     ],
+    "causes": [
+      "Loss of a loved one.",
+      "Divorce or breakup.",
+      "Miscarriage or stillbirth.",
+      "Loss of a job or retirement.",
+      "Loss of health or independence.",
+      "Loss of a pet.",
+      "Loss of a home or community."
+    ],
     "techniques": [
       "Allow yourself to feel your emotions and acknowledge them.",
       "Practice self-care by engaging in activities that you enjoy.",
@@ -89,6 +139,14 @@
     "mainText": [
       "Envy is a complex emotion that involves a combination of jealousy and admiration towards someone else's possessions, achievements, or relationships. It can be triggered by feelings of inadequacy or a sense of unfairness.",
       "Envy can be a natural emotion, but when it becomes chronic or overwhelming, it can have negative effects on mental health and relationships. It's important to understand and process your envy in healthy ways, such as through self-reflection, gratitude, and reframing your thoughts."
+    ],
+    "causes": [
+      "Social comparison or competition.",
+      "Feeling inadequate or inferior.",
+      "Fear of missing out (FOMO).",
+      "Unmet desires or expectations.",
+      "Inequality or injustice.",
+      "Feeling undervalued or unappreciated."
     ],
     "techniques": [
       "Practice gratitude: Take time to appreciate what you have in your life and focus on the things that you are grateful for.",
@@ -104,6 +162,14 @@
       "Guilt is a feeling of responsibility for something you did or failed to do, which may have caused harm to yourself or others. It often involves feelings of regret, self-blame, and a sense of obligation to make things right.",
       "Guilt can be a normal and healthy emotion that motivates us to take responsibility for our actions and make positive changes in our lives. However, when guilt becomes excessive or chronic, it can lead to feelings of anxiety, depression, and shame."
     ],
+    "causes": [
+      "Violation of personal or societal values.",
+      "Breaking a promise or commitment.",
+      "Harming others or causing damage.",
+      "Neglecting responsibilities or obligations.",
+      "Failing to meet personal standards or expectations.",
+      "Betrayal or disloyalty."
+    ],
     "techniques": [
       "Acknowledge your mistake and take responsibility for your actions.",
       "Apologize if necessary and make amends if possible.",
@@ -117,6 +183,14 @@
     "mainText": [
       "Shame is a feeling of deep-seated embarrassment or humiliation about oneself, often related to a sense of failure or inadequacy. It can be triggered by real or perceived social judgments, such as criticism, rejection, or exclusion.",
       "Shame can lead to self-blame, self-doubt, and a negative self-image, which can be difficult to overcome. It can also lead to avoidance of social situations or relationships, which can further perpetuate feelings of isolation and shame."
+    ],
+    "causes": [
+      "Violation of personal or societal norms.",
+      "Public humiliation or embarrassment.",
+      "Discrimination or prejudice.",
+      "Physical or sexual abuse.",
+      "Trauma or neglect.",
+      "Feeling flawed or defective."
     ],
     "techniques": [
       "Challenge negative self-talk and self-judgment.",
@@ -132,6 +206,14 @@
       "Loneliness is a feeling of social isolation or disconnection from others. It can be caused by a variety of factors, such as a lack of social support, a change in life circumstances, or difficulty forming and maintaining relationships.",
       "Loneliness can lead to feelings of sadness, anxiety, and low self-esteem. It can also have negative effects on physical health, such as increased inflammation, stress, and cardiovascular disease."
     ],
+    "causes": [
+      "Lack of social connection or support.",
+      "Isolation or social withdrawal.",
+      "Geographical or cultural barriers.",
+      "Loss of a relationship or community.",
+      "Feeling misunderstood or unappreciated.",
+      "Mental or physical illness."
+    ],
     "techniques": [
       "Reach out to friends and family for social support.",
       "Join social groups or clubs to meet new people and build connections.",
@@ -145,6 +227,14 @@
     "mainText": [
       "Jealousy is a feeling of envy or resentment towards someone else's possessions, accomplishments, or relationships. It often involves feelings of insecurity, inadequacy, and fear of loss or rejection.",
       "Jealousy can be a normal and common emotion, but when it becomes excessive or obsessive, it can lead to negative behaviors and damage relationships. It can also be a symptom of underlying emotional issues, such as low self-esteem or trust issues."
+    ],
+    "causes": [
+      "Perceived threat to a valued relationship or possession.",
+      "Comparison to others or competition.",
+      "Fear of loss or abandonment.",
+      "Insecurity or low self-esteem.",
+      "Feeling excluded or left out.",
+      "Inequality or injustice."
     ],
     "techniques": [
       "Acknowledge and identify the source of your jealousy.",
@@ -160,6 +250,14 @@
       "Fear is a natural emotion that is triggered by a perceived threat or danger. It can manifest as physical sensations such as a racing heart, sweating, and trembling, as well as psychological symptoms such as worry and dread.",
       "Fear can be a helpful response to protect us from harm, but when it becomes excessive or chronic, it can interfere with our daily lives and lead to anxiety disorders."
     ],
+    "causes": [
+      "Perceived threat to physical or emotional safety.",
+      "Uncertainty or ambiguity.",
+      "Trauma or past negative experiences.",
+      "Phobias or irrational fears.",
+      "Change or the unknown.",
+      "Loss of control or power."
+    ],
     "techniques": [
       "Taking deep, slow breaths can help calm your body and mind when you're feeling afraid. Focus on your breath and try to breathe in for a count of four, hold for a count of four, and exhale for a count of four.",
       "Imagining a positive outcome or a calming scene can help reduce fear and anxiety. Close your eyes and imagine a peaceful place or visualize yourself successfully overcoming what you fear.",
@@ -173,6 +271,14 @@
     "mainText": [
       "Frustration is a feeling of being blocked or thwarted in our efforts to achieve a goal or desire. It can manifest as irritation, impatience, and anger.",
       "Frustration is a normal and common emotion that can motivate us to problem-solve and find new solutions, but when it becomes chronic or overwhelming, it can lead to negative consequences such as aggression, anxiety, and depression."
+    ],
+    "causes": [
+      "Obstacles or challenges to goals.",
+      "Feeling blocked or stuck.",
+      "Inefficiency or incompetence.",
+      "Unmet expectations or needs.",
+      "Conflicting values or priorities.",
+      "Unfair treatment or injustice."
     ],
     "techniques": [
       "Practice mindfulness and deep breathing to help calm your mind and body.",
@@ -188,6 +294,14 @@
       "Disappointment is a feeling of sadness or dissatisfaction that arises when our expectations or hopes are not met. It can manifest as feelings of loss, regret, and disillusionment.",
       "Disappointment is a common emotion that we all experience at some point in our lives, but when it becomes chronic or overwhelming, it can lead to feelings of depression and hopelessness."
     ],
+    "causes": [
+      "Unmet expectations or hopes.",
+      "Betrayal or broken promises.",
+      "Loss of opportunities or experiences.",
+      "Change or transition.",
+      "Conflicting values or priorities.",
+      "Feeling let down or unsupported."
+    ],
     "techniques": [
       "Acknowledge your feelings and allow yourself to grieve the loss or unmet expectations.",
       "Reframe the situation by looking for alternative perspectives or potential opportunities.",
@@ -201,6 +315,14 @@
     "mainText": [
       "Betrayal is a feeling of hurt, anger, or disappointment that arises when someone we trust violates our expectations or betrays our confidence. It can manifest as feelings of disbelief, shock, and betrayal.",
       "Betrayal is a painful and complex emotion that can lead to feelings of mistrust and vulnerability, and it often takes time and support to heal from the experience."
+    ],
+    "causes": [
+      "Violation of trust or loyalty.",
+      "Infidelity or cheating.",
+      "Sharing of confidential information.",
+      "Broken promises or commitments.",
+      "Disloyalty or abandonment.",
+      "Backstabbing or gossiping."
     ],
     "techniques": [
       "Allow yourself to feel your emotions and process your feelings in a healthy way.",
@@ -216,6 +338,14 @@
       "Insecurity is a feeling of self-doubt or inadequacy that arises when we compare ourselves to others or feel uncertain about our own abilities or worth. It can manifest as feelings of anxiety, jealousy, and self-criticism.",
       "Insecurity is a common and normal emotion that we all experience at times, but when it becomes chronic or overwhelming, it can lead to negative consequences such as low self-esteem and social isolation."
     ],
+    "causes": [
+      "Low self-esteem or self-worth.",
+      "Negative self-image or body image issues.",
+      "Comparison to others or social pressure.",
+      "Trauma or negative past experiences.",
+      "Perceived rejection or failure.",
+      "Fear of judgement or criticism."
+    ],
     "techniques": [
       "Challenge negative self-talk and replace it with positive affirmations or realistic self-talk.",
       "Practice self-compassion and remind yourself that everyone experiences insecurity from time to time.",
@@ -229,6 +359,14 @@
     "mainText": [
       "Hopelessness is a feeling of despair or futility, often accompanied by a belief that there is no solution or escape from a difficult situation. It can lead to apathy, withdrawal, and a sense of helplessness.",
       "Hopelessness can be a symptom of various mental health conditions, including depression and anxiety, and it is important to seek professional help if it persists or interferes with daily life."
+    ],
+    "causes": [
+      "Persistent or severe stress.",
+      "Trauma or negative past experiences.",
+      "Chronic illness or pain.",
+      "Financial difficulties or poverty.",
+      "Chronic unemployment or underemployment.",
+      "Lack of social support or community."
     ],
     "techniques": [
       "Practicing mindfulness to stay present in the moment.",
@@ -244,6 +382,14 @@
       "Regret is a feeling of sadness or disappointment about something that happened in the past, often involving a missed opportunity or a mistake. It can involve self-blame and a sense of loss, as well as a desire to go back and change the outcome.",
       "While regret is a normal and common emotion, excessive or chronic regret can lead to feelings of depression and low self-esteem."
     ],
+    "causes": [
+      "Actions or decisions that caused harm.",
+      "Missed opportunities or chances not taken.",
+      "Unfulfilled potential or goals.",
+      "Betrayal or disloyalty.",
+      "Past mistakes or failures.",
+      "Loss of relationships or connections."
+    ],
     "techniques": [
       "Practicing self-compassion and forgiveness.",
       "Focusing on the present moment and taking action to make positive changes.",
@@ -257,6 +403,14 @@
     "mainText": [
       "Resentment is a feeling of anger or bitterness towards someone or something that is perceived as unfair or unjust. It can involve holding onto negative feelings and grudges, and can lead to feelings of hostility and conflict.",
       "Resentment can be a normal response to certain situations, but it is important to manage it in a healthy way to avoid negative consequences."
+    ],
+    "causes": [
+      "Unfair treatment or injustice.",
+      "Betrayal or disloyalty.",
+      "Perceived neglect or disrespect.",
+      "Inequality or discrimination.",
+      "Past grievances or unresolved conflicts.",
+      "Perceived or actual mistreatment or abuse."
     ],
     "techniques": [
       "Practicing empathy and trying to see things from the other person's perspective.",
@@ -272,6 +426,13 @@
       "Disgust is a feeling of revulsion or aversion towards something that is perceived as unpleasant or offensive. It can involve physical sensations such as nausea, and can lead to avoidance and withdrawal.",
       "Disgust can be a normal and adaptive response to certain stimuli, but when it becomes excessive or chronic, it can interfere with daily life and lead to anxiety disorders."
     ],
+    "causes": [
+      "Violation of personal or societal norms or values.",
+      "Physical or emotional harm or disgust.",
+      "Moral violations or unethical behavior.",
+      "Betrayal or disloyalty.",
+      "Intense negative emotions or experiences."
+    ],
     "techniques": [
       "Identifying the underlying emotions and thoughts that trigger the disgust response.",
       "Practicing self-compassion and self-acceptance.",
@@ -285,6 +446,14 @@
     "mainText": [
       "Confusion is a feeling of uncertainty or perplexity, often involving a lack of understanding or clarity about a situation or information. It can lead to feelings of frustration and anxiety, and can interfere with decision-making and problem-solving.",
       "Confusion can be a normal and temporary response to certain situations, but if it persists or interferes with daily life, it may be a sign of an underlying issue that requires professional help."
+    ],
+    "causes": [
+      "Lack of information or understanding.",
+      "Conflicting information or opinions.",
+      "Ambiguity or uncertainty.",
+      "Complex or abstract concepts.",
+      "Rapid change or transition.",
+      "Emotional or cognitive overload."
     ],
     "techniques": [
       "Taking a break from the situation or decision to clear your mind.",
@@ -300,6 +469,14 @@
       "Boredom is a feeling of disinterest or lack of engagement in activities that one typically finds stimulating or enjoyable. It can lead to a sense of restlessness or listlessness, and may be accompanied by feelings of sadness or frustration.",
       "While boredom is a common experience, chronic boredom can be a symptom of underlying mental health issues such as depression or attention deficit hyperactivity disorder (ADHD)."
     ],
+    "causes": [
+      "Lack of stimulation or novelty.",
+      "Monotony or repetition.",
+      "Unfulfilling or unsatisfying activities.",
+      "Lack of purpose or direction.",
+      "Social isolation or disconnection.",
+      "Over-reliance on technology or passive entertainment."
+    ],
     "techniques": [
       "Engage in a new activity or hobby.",
       "Connect with friends or family members.",
@@ -313,6 +490,14 @@
     "mainText": [
       "Irritation is a feeling of annoyance or frustration that can be triggered by various factors, such as a situation or another person's behavior. It can lead to physical symptoms such as tension and elevated heart rate, and may result in aggressive or passive-aggressive behavior.",
       "Irritation can be a normal response to certain situations, but if it becomes chronic or interferes with daily life, it may be a sign of underlying mental health issues such as anxiety or bipolar disorder."
+    ],
+    "causes": [
+      "Annoying or disruptive behavior or circumstances.",
+      "Disrespect or disregard of personal boundaries.",
+      "Perceived incompetence or inefficiency.",
+      "Noise or other sensory overload.",
+      "Crowded or uncomfortable environments.",
+      "Physical discomfort or pain."
     ],
     "techniques": [
       "Take a break from the situation or person causing irritation.",
@@ -328,6 +513,14 @@
       "Impatience is a feeling of restlessness or frustration caused by a perceived delay or obstacle to achieving a goal or desire. It can lead to impulsive or rash behavior, and may result in poor decision-making or strained relationships.",
       "Impatience can be a normal response to certain situations, but if it becomes chronic or interferes with daily life, it may be a sign of underlying mental health issues such as anxiety or attention deficit hyperactivity disorder (ADHD)."
     ],
+    "causes": [
+      "Delayed or slow progress or results.",
+      "Bureaucratic or inefficient processes.",
+      "Waiting in line or traffic.",
+      "Conflicting schedules or priorities.",
+      "Unmet expectations or needs.",
+      "Time pressure or urgency."
+    ],
     "techniques": [
       "Practice mindfulness and focus on the present moment.",
       "Take deep breaths and count to 10 before reacting impulsively.",
@@ -341,6 +534,14 @@
     "mainText": [
       "Overwhelm is a feeling of being inundated or overburdened by responsibilities, tasks, or emotions. It can lead to physical symptoms such as fatigue and headaches, and may result in difficulty concentrating or making decisions.",
       "Overwhelm can be a normal response to certain situations, but if it becomes chronic or interferes with daily life, it may be a sign of underlying mental health issues such as anxiety or depression."
+    ],
+    "causes": [
+      "Excessive demands or responsibilities.",
+      "Lack of control or organization.",
+      "Rapid change or transition.",
+      "Multitasking or juggling too many tasks.",
+      "Perceived or actual insufficient resources or support.",
+      "Emotional or cognitive overload."
     ],
     "techniques": [
       "Prioritize tasks and break them into smaller, manageable steps.",
@@ -356,6 +557,14 @@
       "Discontentment is a feeling of dissatisfaction or unhappiness with one's current situation or circumstances. It can lead to a sense of restlessness or apathy, and may result in behaviors such as substance abuse or overeating.",
       "Discontentment can be a normal response to certain situations, but if it becomes chronic or interferes with daily life, it may be a sign of underlying mental health issues such as depression or bipolar disorder."
     ],
+    "causes": [
+      "Unfulfilled or unmet expectations or desires.",
+      "Comparison to others or social pressure.",
+      "Lack of purpose or direction.",
+      "Perceived or actual unfairness or inequality.",
+      "Monotony or repetition.",
+      "Unsatisfactory or unfulfilling relationships or connections."
+    ],
     "techniques": [
       "Practice gratitude and focus on the positive aspects of your life.",
       "Engage in activities that bring you joy and fulfillment.",
@@ -369,6 +578,14 @@
     "mainText": [
       "Nervousness is a feeling of unease, apprehension, or worry, often accompanied by physical symptoms such as sweating, trembling, or an increased heart rate.",
       "It can be a natural response to new or challenging situations, but excessive or chronic nervousness can interfere with daily life and be a symptom of anxiety disorders."
+    ],
+    "causes": [
+      "Fear of the unknown or uncertainty.",
+      "Anticipation of potential danger or harm.",
+      "Social or performance anxiety.",
+      "Perceived or actual lack of control or predictability.",
+      "Trauma or negative past experiences.",
+      "Chronic stress or tension."
     ],
     "techniques": [
       "Practice deep breathing or meditation to calm your mind and body.",
@@ -384,6 +601,14 @@
       "Inadequacy is a feeling of inadequacy or inferiority, often accompanied by thoughts of not being good enough or capable enough. It can lead to a lack of confidence, self-doubt, and negative self-talk.",
       "Inadequacy can be a normal response to certain situations, but when it becomes chronic or interferes with daily life, it may be a sign of underlying mental health issues such as low self-esteem or depression."
     ],
+    "causes": [
+      "Comparison to others or social pressure.",
+      "Negative self-image or self-talk.",
+      "Perceived or actual lack of skills or ability.",
+      "Past failures or mistakes.",
+      "Trauma or negative past experiences.",
+      "Pressure to meet high standards or expectations."
+    ],
     "techniques": [
       "Challenge negative self-talk by identifying and questioning your negative beliefs.",
       "Focus on your strengths and accomplishments, rather than your perceived weaknesses or failures.",
@@ -397,6 +622,14 @@
     "mainText": [
       "Embarrassment is a feeling of self-consciousness or shame, often caused by social or personal situations in which one feels exposed or vulnerable. It can lead to physical symptoms such as blushing or sweating, and may result in avoidance of certain situations or activities.",
       "Embarrassment can be a normal and healthy emotion, but excessive or chronic embarrassment can interfere with daily life and be a symptom of social anxiety or other mental health conditions."
+    ],
+    "causes": [
+      "Public scrutiny or exposure.",
+      "Social rejection or disapproval.",
+      "Perceived or actual failure or mistake.",
+      "Unexpected or awkward situations.",
+      "Loss of personal or social status.",
+      "Cultural or societal norms or values."
     ],
     "techniques": [
       "Remind yourself that everyone makes mistakes and experiences embarrassment at some point in their lives.",
