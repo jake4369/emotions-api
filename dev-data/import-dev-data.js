@@ -35,7 +35,7 @@ const importData = async () => {
 // DELETE ALL DATA FROM DB
 const deleteData = async () => {
   try {
-    await Emotions.deleteMany();
+    await Emotion.deleteMany();
     console.log("Data successfully deleted!");
   } catch (err) {
     console.log(err);
