@@ -10,6 +10,13 @@ const emotionSchema = new mongoose.Schema({
     type: [String],
     required: [true, "Emotions must have a summary"],
   },
+  causes: {
+    type: [String],
+    required: [
+      true,
+      "Emotions must have a list of potential causes or triggers",
+    ],
+  },
   techniques: {
     type: [String],
     required: [true, "Emotions must have a list of coping techniques"],
