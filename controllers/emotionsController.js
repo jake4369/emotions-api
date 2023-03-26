@@ -1,8 +1,13 @@
 const Emotion = require("./../models/emotionsModel");
+const APIFeatures = require("./../utils/apiFeatures");
 
 exports.getAllEmotions = async (req, res) => {
   try {
-    const emotions = await Emotion.find();
+    const features = new APIFeatures(Emotion.find(), req.query)
+      .sort()
+      .paginate();
+
+    const emotions = await features.query;
 
     res.status(200).json({
       results: emotions.length,
