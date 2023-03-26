@@ -15,6 +15,7 @@
       "Trauma or abuse."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing sadness might include feeling overwhelmed, alone, or like nothing will ever get better. Someone might also have thoughts like 'I'm not good enough' or 'This is all my fault.'",
+    "reassurance": "It's okay to feel sad sometimes. It's a natural human emotion that we all experience at some point in our lives. It's important to remember that this feeling won't last forever and that there are people who care about you and want to support you through this difficult time. Allow yourself to grieve and take the time you need to heal.",
     "techniques": [
       "Allow yourself to feel your emotions and acknowledge them.",
       "Practice self-care by engaging in activities that you enjoy.",
@@ -39,6 +40,7 @@
       "Trauma or PTSD."
     ],
     "commonThoughts": "When experiencing anxiety, someone might have thoughts or beliefs like 'Something bad is going to happen' or 'I can't handle this.' They might also worry about things that haven't happened yet or feel like they're constantly on edge.",
+    "reassurance": "Feeling anxious can be overwhelming, but it's important to remember that you're not alone in this. It's a common emotion that many people experience. It's helpful to identify what triggers your anxiety and try to avoid or manage those triggers. Remember to take deep breaths and focus on the present moment. You have the strength to overcome this.",
     "techniques": [
       "Practice relaxation techniques such as deep breathing, meditation, or yoga.",
       "Challenge negative thoughts and reframe them in a positive light.",
@@ -53,7 +55,6 @@
       "Stress is a natural response to challenging situations, and in small doses, it can even be helpful in motivating us to take action. However, when stress becomes chronic or overwhelming, it can negatively impact our physical and mental health. Some common signs of stress include difficulty sleeping, irritability, mood swings, fatigue, and difficulty concentrating.",
       "Stress can be caused by a variety of factors, such as work or school demands, financial issues, relationship problems, or health concerns. It's important to identify the sources of your stress and find ways to manage it effectively. This might include prioritizing self-care, taking breaks when needed, practicing relaxation techniques, seeking support from friends or family, and setting realistic goals and expectations. In some cases, professional support from a mental health professional may be necessary to manage stress effectively."
     ],
-    "commonThoughts": "Thoughts and beliefs related to stress might include feeling like there's too much to do and not enough time to do it, or feeling like everything is out of control. Someone might also have thoughts like 'I'm not capable of handling this' or 'This is too much for me to handle.'",
     "causes": [
       "Work or school pressures.",
       "Financial difficulties.",
@@ -62,6 +63,8 @@
       "Time pressures or deadlines.",
       "Major life changes (e.g. moving, new job)."
     ],
+    "commonThoughts": "Thoughts and beliefs related to stress might include feeling like there's too much to do and not enough time to do it, or feeling like everything is out of control. Someone might also have thoughts like 'I'm not capable of handling this' or 'This is too much for me to handle.'",
+    "reassurance": "Stress can be a challenging emotion to deal with, but it's important to take steps to manage it. Identify the sources of stress in your life and try to eliminate or minimize them. Take time to relax and engage in activities that bring you joy. Remember to prioritize self-care and seek support from loved ones.",
     "techniques": [
       "Practice relaxation techniques such as deep breathing or progressive muscle relaxation.",
       "Make time for activities you enjoy and prioritize self-care.",
@@ -76,7 +79,6 @@
       "Depression is a mood disorder that can affect a person's thoughts, feelings, and behavior. It is characterized by feelings of sadness, hopelessness, and a loss of interest or pleasure in activities that were once enjoyed. Other symptoms of depression may include changes in appetite or sleep patterns, difficulty concentrating, and thoughts of self-harm or suicide.",
       "Depression can be caused by a combination of genetic, biological, environmental, and psychological factors. It's important to seek advice from a mental health professional if you're experiencing symptoms of depression, as it can be a serious and potentially life-threatening condition. Treatment options may include talk therapy, medication, or a combination of both."
     ],
-    "commonThoughts": "Common thoughts or beliefs when experiencing depression might include feeling like everything is hopeless, like there's no point in doing anything, or like they're a burden on others. Someone might also have thoughts like 'I'm not worth anything' or 'Things will never get better.'",
     "causes": [
       "Genetic or biological factors.",
       "Trauma or abuse.",
@@ -85,6 +87,8 @@
       "Negative thought patterns or beliefs.",
       "Isolation or loneliness."
     ],
+    "commonThoughts": "Common thoughts or beliefs when experiencing depression might include feeling like everything is hopeless, like there's no point in doing anything, or like they're a burden on others. Someone might also have thoughts like 'I'm not worth anything' or 'Things will never get better.'",
+    "reassurance": "Depression can be a difficult emotion to navigate, but it's important to remember that it's treatable. You're not alone in this and there are resources available to help you. It's important to seek professional help and to talk to someone you trust. Remember to be kind to yourself and take things one day at a time.",
     "techniques": [
       "Practice self-care and engage in activities that you enjoy.",
       "Challenge negative thoughts and reframe them in a positive light.",
@@ -99,7 +103,6 @@
       "Anger is a natural emotion that can range from mild annoyance to intense rage. It's a response to a perceived threat or injustice and can be triggered by a variety of situations or events.",
       "Anger can be expressed in healthy or unhealthy ways, and it's important to learn how to manage and express it effectively. When anger is chronic or interferes with daily functioning, it may be a sign of an underlying mental health issue, and seeking professional help may be necessary."
     ],
-    "commonThoughts": "When feeling angry, someone might have thoughts or beliefs like 'This isn't fair' or 'I can't tolerate this.' They might also feel like they've been disrespected or like someone has done something to them intentionally.",
     "causes": [
       "Frustration or feeling stuck.",
       "Feeling disrespected or unappreciated.",
@@ -108,6 +111,8 @@
       "Injustice or unfair treatment.",
       "Trauma or abuse."
     ],
+    "commonThoughts": "When feeling angry, someone might have thoughts or beliefs like 'This isn't fair' or 'I can't tolerate this.' They might also feel like they've been disrespected or like someone has done something to them intentionally.",
+    "reassurance": "Feeling angry is a natural human emotion, but it's important to manage it in a healthy way. Take a step back and try to identify what's causing your anger. Take deep breaths and try to calm yourself down. Remember that it's okay to express your feelings, but try to do so in a respectful and constructive way. You have the power to choose how you react to your emotions.",
     "techniques": [
       "Practice relaxation techniques such as deep breathing or mindfulness meditation.",
       "Identify triggers that cause your anger and avoid or manage them.",
@@ -132,6 +137,7 @@
       "Loss of a home or community."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing grief might include feeling like nothing will ever be the same, like they should have done something differently, or like they'll never be able to move on. Someone might also have thoughts like 'I can't imagine life without them' or 'I wish I had one more chance to say goodbye.'",
+    "reassurance": "Grieving is a natural and healthy response to loss. It's okay to take the time you need to process your emotions and to mourn in your own way. Remember that everyone grieves differently and there's no right or wrong way to do it. You'll never forget the person or thing you've lost, but you will learn to cope with the pain and the memories in time.",
     "techniques": [
       "Allow yourself to feel your emotions and acknowledge them.",
       "Practice self-care by engaging in activities that you enjoy.",
@@ -146,7 +152,6 @@
       "Envy is a complex emotion that involves a combination of jealousy and admiration towards someone else's possessions, achievements, or relationships. It can be triggered by feelings of inadequacy or a sense of unfairness.",
       "Envy can be a natural emotion, but when it becomes chronic or overwhelming, it can have negative effects on mental health and relationships. It's important to understand and process your envy in healthy ways, such as through self-reflection, gratitude, and reframing your thoughts."
     ],
-    "commonThoughts": "When experiencing envy, someone might have thoughts or beliefs like 'I wish I had what they have' or 'Why do they get to have everything?' They might feel like they're missing out on something or like they're not as good as the person they're envious of.",
     "causes": [
       "Social comparison or competition.",
       "Feeling inadequate or inferior.",
@@ -155,6 +160,8 @@
       "Inequality or injustice.",
       "Feeling undervalued or unappreciated."
     ],
+    "commonThoughts": "When experiencing envy, someone might have thoughts or beliefs like 'I wish I had what they have' or 'Why do they get to have everything?' They might feel like they're missing out on something or like they're not as good as the person they're envious of.",
+    "reassurance": "Feeling envy can be difficult, but it's important to remember that everyone has their own journey and struggles. It's okay to acknowledge your feelings, but try not to compare yourself to others. Remember that you have your own unique strengths and accomplishments, and focus on your own path instead of others'. Celebrate the successes of others and use them as inspiration to pursue your own goals.",
     "techniques": [
       "Practice gratitude: Take time to appreciate what you have in your life and focus on the things that you are grateful for.",
       "Reframe your thinking: Instead of thinking negatively about someone else's success or possessions, try to think positively and use their achievements as inspiration for your own goals.",
@@ -178,6 +185,7 @@
       "Betrayal or disloyalty."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing guilt might include feeling like they've done something wrong, like they've let someone down, or like they're a bad person. Someone might also have thoughts like 'I should have known better' or 'It's all my fault.'",
+    "reassurance": "Feeling guilty is a common emotion, but it's important to remember that everyone makes mistakes. It's okay to take responsibility for your actions and apologize if necessary, but try not to dwell on the past. Learn from your mistakes and use them as an opportunity for growth. Remember that you're only human and that forgiveness, both from others and yourself, is possible.",
     "techniques": [
       "Acknowledge your mistake and take responsibility for your actions.",
       "Apologize if necessary and make amends if possible.",
@@ -201,6 +209,7 @@
       "Feeling flawed or defective."
     ],
     "commonThoughts": "When feeling shame, someone might have thoughts or beliefs like 'I'm not good enough' or 'I'm a terrible person.' They might feel like they're flawed or defective in some way, and like they're unworthy of love or respect.",
+    "reassurance": "Feeling ashamed can be isolating, but it's important to remember that everyone has moments they're not proud of. It's okay to acknowledge your feelings, but try not to let them define you. Remember that you have strengths and qualities that make you unique and valuable. Focus on the positive aspects of yourself and remember that you're deserving of love and acceptance.",
     "techniques": [
       "Challenge negative self-talk and self-judgment.",
       "Practice self-compassion and self-acceptance.",
@@ -224,6 +233,7 @@
       "Mental or physical illness."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing loneliness might include feeling like no one understands them, like they'll always be alone, or like they're not worthy of love or connection. Someone might also have thoughts like 'I don't belong anywhere' or 'No one cares about me.'",
+    "reassurance": "Feeling lonely can be overwhelming, but it's important to remember that you're not alone in this feeling. It's okay to reach out for support and connection from friends, family, or a therapist. Remember to engage in activities that bring you joy and fulfillment, even if you have to do them alone. You have the power to create meaningful connections and to build a fulfilling life for yourself.",
     "techniques": [
       "Reach out to friends and family for social support.",
       "Join social groups or clubs to meet new people and build connections.",
@@ -247,6 +257,7 @@
       "Inequality or injustice."
     ],
     "commonThoughts": "When experiencing jealousy, someone might have thoughts or beliefs like 'Why does they get to have that?' or 'I'm not as good as they are.' They might feel like they're competing with someone for something they want or like they're not getting their fair share.",
+    "reassurance": "Feeling jealous can be difficult, but it's important to remember that everyone has their own unique journey and experiences. It's okay to acknowledge your feelings, but try not to compare yourself to others. Remember that you have your own strengths and accomplishments, and focus on your own path instead of others'. Celebrate the successes of others and use them as inspiration to pursue your own goals.",
     "techniques": [
       "Acknowledge and identify the source of your jealousy.",
       "Practice gratitude and focus on your own blessings and accomplishments.",
@@ -270,6 +281,7 @@
       "Loss of control or power."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing fear might include feeling like something terrible is going to happen, like they're not safe, or like they're not in control. Someone might also have thoughts like 'I can't handle this' or 'I'm going to fail.'",
+    "reassurance": "Feeling afraid is a natural human emotion, but it's important to remember that fear doesn't have to control your actions. It's okay to acknowledge your feelings, but try not to let them limit you. Remember that you have the strength and courage to face your fears and to take action towards your goals. Take small steps towards what scares you and celebrate each accomplishment along the way.",
     "techniques": [
       "Taking deep, slow breaths can help calm your body and mind when you're feeling afraid. Focus on your breath and try to breathe in for a count of four, hold for a count of four, and exhale for a count of four.",
       "Imagining a positive outcome or a calming scene can help reduce fear and anxiety. Close your eyes and imagine a peaceful place or visualize yourself successfully overcoming what you fear.",
@@ -293,6 +305,7 @@
       "Unfair treatment or injustice."
     ],
     "commonThoughts": "When feeling frustrated, someone might have thoughts or beliefs like 'This should be easier than it is' or 'Why isn't this working?' They might feel like they're not making progress or like they're hitting a wall.",
+    "reassurance": "Feeling frustrated can be challenging, but it's important to remember that setbacks and obstacles are a natural part of any journey. It's okay to acknowledge your feelings, but try not to let them consume you. Remember that you have the power to change your situation and to approach challenges with a positive mindset. Use your frustration as motivation to keep pushing towards your goals.",
     "techniques": [
       "Practice mindfulness and deep breathing to help calm your mind and body.",
       "Take a break or step away from the situation for a while to gain perspective.",
@@ -316,6 +329,7 @@
       "Feeling let down or unsupported."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing disappointment might include feeling like they've failed, like they've been let down, or like they're not good enough. Someone might also have thoughts like 'I should have done better' or 'This isn't what I wanted.'",
+    "reassurance": "Feeling disappointed can be disheartening, but it's important to remember that not everything will go as planned. It's okay to acknowledge your feelings, but try not to dwell on the past. Remember that disappointment can be an opportunity for growth and learning. Use your disappointment as a chance to re-evaluate your goals and to make adjustments as necessary.",
     "techniques": [
       "Acknowledge your feelings and allow yourself to grieve the loss or unmet expectations.",
       "Reframe the situation by looking for alternative perspectives or potential opportunities.",
@@ -339,6 +353,7 @@
       "Backstabbing or gossiping."
     ],
     "commonThoughts": "When feeling betrayed, someone might have thoughts or beliefs like 'How could they do this to me?' or 'I trusted them and they let me down.' They might feel hurt, angry, or like they've been taken advantage of.",
+    "reassurance": "Feeling betrayed can be devastating, but it's important to remember that you deserve to be treated with respect and honesty. It's okay to acknowledge your feelings and to take time to process them. Remember that it's not your fault and that you have the power to choose how you move forward. Surround yourself with supportive people and focus on healing and rebuilding trust in yourself and others.",
     "techniques": [
       "Allow yourself to feel your emotions and process your feelings in a healthy way.",
       "Practice self-care and self-compassion to help you cope with the difficult emotions.",
@@ -362,6 +377,7 @@
       "Fear of judgement or criticism."
     ],
     "commonThoughts": "When feeling insecure, someone might have thoughts or beliefs like 'I'm not good enough' or 'I don't belong here.' They might feel like they're not as capable or as deserving as others or like they're going to be exposed as a fraud.",
+    "reassurance": "Feeling insecure can be challenging, but it's important to remember that everyone has their own unique strengths and qualities. It's okay to acknowledge your feelings, but try not to compare yourself to others. Remember that you have your own accomplishments and areas of expertise. Focus on your strengths and use them to build confidence in yourself.",
     "techniques": [
       "Challenge negative self-talk and replace it with positive affirmations or realistic self-talk.",
       "Practice self-compassion and remind yourself that everyone experiences insecurity from time to time.",
@@ -385,6 +401,7 @@
       "Lack of social support or community."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing hopelessness might include feeling like nothing will ever get better, like there's no point in trying, or like they're trapped in a bad situation. Someone might also have thoughts like 'Things will never change' or 'I don't see a way out.'",
+    "reassurance": "Feeling hopeless can be overwhelming, but it's important to remember that there is always a chance for things to improve. It's okay to acknowledge your feelings, but try not to let them define you. Remember that there are people who care about you and resources available to help you through difficult times. Take small steps towards positive change and focus on the things you can control.",
     "techniques": [
       "Practicing mindfulness to stay present in the moment.",
       "Seeking social support and talking to someone you trust.",
@@ -408,6 +425,7 @@
       "Loss of relationships or connections."
     ],
     "commonThoughts": "When feeling regret, someone might have thoughts or beliefs like 'I wish I had done things differently' or 'If only I had known.' They might feel like they've missed an opportunity or like they've made a mistake they can't undo.",
+    "reassurance": "Feeling regretful can be painful, but it's important to remember that everyone makes mistakes. It's okay to acknowledge your feelings and take responsibility for your actions. Remember that you have the power to learn from your mistakes and to make positive changes in your life. Use your regret as motivation to make amends and to move forward with a renewed sense of purpose.",
     "techniques": [
       "Practicing self-compassion and forgiveness.",
       "Focusing on the present moment and taking action to make positive changes.",
@@ -431,6 +449,7 @@
       "Perceived or actual mistreatment or abuse."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing resentment might include feeling like they've been treated unfairly, like someone owes them something, or like they're not getting the recognition they deserve. Someone might also have thoughts like 'Why do they get everything?' or 'I deserve better than this.'",
+    "reassurance": "Feeling resentful can be challenging, but it's important to remember that holding onto negative feelings only hurts yourself. It's okay to acknowledge your feelings and to take time to process them. Remember that forgiveness, both of others and yourself, can be a powerful tool for healing. Focus on positive relationships and experiences and let go of negativity that is weighing you down.",
     "techniques": [
       "Practicing empathy and trying to see things from the other person's perspective.",
       "Communicating openly and honestly with the person you feel resentment towards.",
@@ -453,6 +472,7 @@
       "Intense negative emotions or experiences."
     ],
     "commonThoughts": "When feeling disgust, someone might have thoughts or beliefs like 'I can't believe I did that' or 'That's so gross.' They might feel like they've violated their own standards or like they're disgusted by someone else's behavior or appearance.",
+    "reassurance": "Feeling disgusted can be difficult, but it's important to remember that everyone has their own preferences and boundaries. It's okay to acknowledge your feelings, but try not to judge yourself or others too harshly. Remember that it's important to treat yourself and others with respect and kindness. Focus on building positive relationships and experiences that align with your values and beliefs.",
     "techniques": [
       "Identifying the underlying emotions and thoughts that trigger the disgust response.",
       "Practicing self-compassion and self-acceptance.",
@@ -476,6 +496,7 @@
       "Emotional or cognitive overload."
     ],
     "commonThoughts": "When feeling confused, someone might have thoughts or beliefs like 'I don't understand' or 'What's going on?' They might feel like they're missing something or like they need more information to make sense of things.",
+    "reassurance": "Feeling confused can be challenging, but it's important to remember that it's okay not to have all the answers. It's okay to acknowledge your feelings and take time to process them. Remember that clarity can come from seeking new information, talking to others, or taking time to reflect. Trust yourself and your ability to navigate difficult situations with patience and perseverance.",
     "techniques": [
       "Taking a break from the situation or decision to clear your mind.",
       "Identifying and clarifying your values and priorities.",
@@ -499,6 +520,7 @@
       "Over-reliance on technology or passive entertainment."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing boredom might include feeling like there's nothing to do, like everything is dull or uninteresting, or like they're wasting their time. Someone might also have thoughts like 'This is so boring' or 'I wish I had something more fun to do.'",
+    "reassurance": "Feeling bored can be frustrating, but it's important to remember that it's okay to take a break and rest. It's okay to acknowledge your feelings and to take time to recharge. Remember that boredom can also be an opportunity for creativity and exploration. Try new hobbies or activities to stimulate your mind and spark inspiration.",
     "techniques": [
       "Engage in a new activity or hobby.",
       "Connect with friends or family members.",
@@ -522,6 +544,7 @@
       "Physical discomfort or pain."
     ],
     "commonThoughts": "When feeling irritated, someone might have thoughts or beliefs like 'This is so annoying' or 'Why can't people just do what they're supposed to?' They might feel like their time is being wasted or like someone is being unreasonable or difficult.",
+    "reassurance": "Feeling irritated can be challenging, but it's important to remember that everyone has their own triggers and boundaries. It's okay to acknowledge your feelings and take time to cool off. Remember that communication is key in resolving conflicts and that it's important to express your needs and boundaries in a respectful way. Focus on positive relationships and experiences that align with your values and beliefs.",
     "techniques": [
       "Take a break from the situation or person causing irritation.",
       "Practice relaxation techniques such as deep breathing or yoga.",
@@ -545,6 +568,7 @@
       "Time pressure or urgency."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing impatience might include feeling like things are taking too long, like they're not making progress quickly enough, or like they're being held back. Someone might also have thoughts like 'Hurry up already' or 'Why is this taking so long?'",
+    "reassurance": "Feeling impatient can be frustrating, but it's important to remember that things take time. It's okay to acknowledge your feelings and to set goals and timelines for yourself. Remember that progress can be slow but every step counts towards your ultimate goal. Focus on the small wins and achievements along the way.",
     "techniques": [
       "Practice mindfulness and focus on the present moment.",
       "Take deep breaths and count to 10 before reacting impulsively.",
@@ -568,6 +592,7 @@
       "Emotional or cognitive overload."
     ],
     "commonThoughts": "When feeling overwhelmed, someone might have thoughts or beliefs like 'I can't handle this' or 'There's too much to do.' They might feel like they're being pulled in too many directions or like they're not capable of handling everything that's expected of them.",
+    "reassurance": "Feeling overwhelmed can be daunting, but it's important to remember that it's okay to ask for help and to take things one step at a time. It's okay to acknowledge your feelings and to prioritize self-care and rest. Remember that it's important to break down large tasks into smaller, manageable steps and to delegate responsibilities when possible. Focus on what is within your control and celebrate each accomplishment along the way.",
     "techniques": [
       "Prioritize tasks and break them into smaller, manageable steps.",
       "Practice time management techniques such as creating a schedule or to-do list.",
@@ -591,6 +616,7 @@
       "Unsatisfactory or unfulfilling relationships or connections."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing discontentment might include feeling like things should be different or like they're not living up to their expectations. Someone might also have thoughts like 'I'm not satisfied with my life' or 'I deserve better.'",
+    "reassurance": "Feeling discontent can be challenging, but it's important to remember that it's okay to strive for more while still being grateful for what you have. It's okay to acknowledge your feelings and to set goals for yourself. Remember to focus on the present and the positive aspects of your life while working towards the future. Celebrate your achievements and growth along the way.",
     "techniques": [
       "Practice gratitude and focus on the positive aspects of your life.",
       "Engage in activities that bring you joy and fulfillment.",
@@ -614,6 +640,7 @@
       "Chronic stress or tension."
     ],
     "commonThoughts": "When feeling nervous, someone might have thoughts or beliefs like 'What if something goes wrong?' or 'I'm not prepared for this.' They might also worry about what others think of them or feel like they're being judged.",
+    "reassurance": "Feeling nervous can be uncomfortable, but it's important to remember that it's a natural response to new or challenging situations. It's okay to acknowledge your feelings and to take steps to prepare yourself. Remember to focus on your strengths and abilities, and to visualize a positive outcome. Trust yourself and your ability to navigate difficult situations with courage and confidence.",
     "techniques": [
       "Practice deep breathing or meditation to calm your mind and body.",
       "Use positive self-talk to challenge negative thoughts and beliefs that contribute to your nervousness.",
@@ -637,6 +664,7 @@
       "Pressure to meet high standards or expectations."
     ],
     "commonThoughts": "Thoughts and beliefs related to inadequacy might include feeling like they're not good enough or like they don't measure up to others. Someone might also have thoughts like 'I'm a failure' or 'I can't do anything right.'",
+    "reassurance": "Feeling inadequate can be discouraging, but it's important to remember that everyone has their own unique strengths and qualities. It's okay to acknowledge your feelings and to work on building confidence in yourself. Remember to focus on your accomplishments and areas of expertise, and to seek out opportunities for growth and learning. Celebrate your successes and use them as motivation to continue to grow and develop.",
     "techniques": [
       "Challenge negative self-talk by identifying and questioning your negative beliefs.",
       "Focus on your strengths and accomplishments, rather than your perceived weaknesses or failures.",
@@ -660,6 +688,7 @@
       "Cultural or societal norms or values."
     ],
     "commonThoughts": "Common thoughts or beliefs when experiencing embarrassment might include feeling like they've made a mistake or like they've done something foolish. Someone might also worry about what others think of them or feel like they're being judged harshly.",
+    "reassurance": "Feeling embarrassed can be uncomfortable, but it's important to remember that everyone makes mistakes and has awkward moments. It's okay to acknowledge your feelings and to take responsibility for your actions. Remember to focus on the positive aspects of the situation and to use it as an opportunity for growth and learning. Laugh at yourself and don't take yourself too seriously, and remember that vulnerability can be a powerful tool for connection with others.",
     "techniques": [
       "Remind yourself that everyone makes mistakes and experiences embarrassment at some point in their lives.",
       "Practice self-compassion by treating yourself with kindness and understanding, rather than harsh self-judgment.",
