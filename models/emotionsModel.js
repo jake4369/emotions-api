@@ -17,6 +17,12 @@ const emotionSchema = new mongoose.Schema({
       "Emotions must have a list of potential causes or triggers",
     ],
   },
+  commonThoughts: {
+    type: String,
+  },
+  reassurance: {
+    type: String,
+  },
   techniques: {
     type: [String],
     required: [true, "Emotions must have a list of coping techniques"],
